@@ -1,6 +1,8 @@
 # TensorFlow Object Detection using SSD Mobilenet V2
+<p align="center">
+  <a href="https://github.com/ITainment-UIT-04"><img width="30%" height="auto" src="https://github.com/Antares3102/Antares3102/blob/main/ITainment.png" height="175px"/></a>
+</p>
 
-[![N|Solid](https://avatars.githubusercontent.com/u/102322916?s=200&v=4)](https://github.com/ITainment-UIT-04)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-3776AB)](https://www.python.org/downloads/release/python-390/)
 [![Anaconda](https://img.shields.io/badge/Anaconca-3776A)](https://www.anaconda.com)
 ## Setup
